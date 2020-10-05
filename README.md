@@ -1,3 +1,13 @@
+# Tidy Data Assignment (Group)
+
+For details on data used in this assignment, please visit [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
+
+All python requirements are stored in `requirements.txt`. Run the code below to install the requirements.
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Reflection
 
 In this exercise, Daniel, Ryan, and Justin performed a tutorial for students who want to learn tidy data.
@@ -19,23 +29,23 @@ When sending a final tutorial on tidy data, it's the responsibility to make sure
 
 ## Reflection Questions
 
-#### 1
+#### 1.  What do we believe we did well on this assignment?
 
-We did well especially with using the functions: `melt`, `pivot`, and `pivot_table`. 
+We believe we worked as a team well, even during this virtual environment. We utilized Slack and Zoom to communicate efficienty as we finished the assignment. We splitted the tasks among ourselves and got together to discuss what we were able to do and what we had issues with. We did well especially with implementing the functions; `melt`, `pivot`, and `pivot_table` in the tutorials from two different aspects. We looked this assignment from perspective of students, and teachers so that students could learn the objects easily, and teachers could teach every details about the Tindy data.
 
 In addition, it was an experience using `NBgrader` for the first time and we could continue learning.
 
-#### 2
+#### 2. What was the most challenging part of this assignment?
 
 The most challenging part of this assignment by far was using `NBgrader` overall. 
 
-For example, trying to actually grade example answers to assignments successfully on `NBgrader` or even coming up with successful questions.
+For example, trying to actually grade example answers to assignments successfully on `NBgrader` or even coming up with successful questions. We went through the NBgrader tutorial, and youtube video 
 
-#### 3
+#### 3. What would have made this assignment a better experience?
 
 Most of us never used `NBgrader` before so it's quite a challenge once learning to become accustomed to manage assignments, manage students, combine different notebooks, pushing and pulling the necessary files.
 
-#### 4
+#### 4. What do I need help with?
 
 We would need more help in using `NBgrader`. As for the assignment, the harder challenge would be running the right tests given the examples shown earlier.
 
@@ -43,7 +53,7 @@ Also, we should learn how to send assignments as instructors and have students s
 
 Hopefully, there's a faster way using the notebook rather than the idea of JupyterHub.
 
-#### 5
+#### 5. What did I actually learn by doing this assignment? Why does it matter?
 
 This assignment was very important in terms of tidy data.
 
